@@ -25,7 +25,7 @@ You want to add enough heat and solder to get a nice solid joint, with solder re
 ![soldered](https://github.com/kaysond/m920q-3.5in-drive-mod/assets/1147328/34e43cb8-2d4c-4908-a525-2980cf78c15f)
 
 ## Finishing the Mod
-Connect the stock SATA cable to the motherboard, and the extension to the stock cable. There's enough length on the stock ribbon cable to fit around a PCI-e card, if you have one. You'll need to route the extension cable out the back of the chassis either by removing the PCI-e bracket, or printing one with a cutout.
+Connect the stock SATA cable to the motherboard, and the extension to the stock cable. There's enough length on the stock ribbon cable to fit around a PCI-e card, if you have one. You'll need to route the extension cable out the back of the chassis either by removing the PCI-e bracket, or 3D printing one with a cutout.
 ![finished mod1](https://github.com/kaysond/m920q-3.5in-drive-mod/assets/1147328/84a3e0c9-7aa0-4ce1-b73c-165c5fe26696)
 
 ![finished mod](https://github.com/kaysond/m920q-3.5in-drive-mod/assets/1147328/a0ed0cd4-fec9-4fa2-adf3-4dca5e54f798)

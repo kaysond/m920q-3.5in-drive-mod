@@ -17,7 +17,7 @@ The 12V wire on the SATA extension cable can be connected to the positive (+) te
 **12V Supply Notes:**  This 12V supply is a switcher directly off the 20V DC input, and it only turns on when the machine is booted. It's rated up to 5.5A, but it's shared with the PCI-e slot. PCI-e can do 5.5A over the connector, and SATA can do 4.5A. That means with an exeptionally high load on both, you could exceed the rated current. Over Current Protection is set to 10A, so be careful. Most likely, though, you won't use more than 1A from a HDD. Also keep in mind that the DisplayPort riser connector (JP48) uses 0.4A from the 12V supply when populated.
 
 ## Solder Prep
-I routed the wire between the two headers, used some kapton tape to hold it down on the pad, and put some flux on the wire end and 
+I routed the wire between the two headers, used some kapton tape to hold it down on the pad, and put some flux on the wire end and pad.
 ![solder prep](https://github.com/kaysond/m920q-3.5in-drive-mod/assets/1147328/fd6e6ff6-594f-4fa7-aba4-fbdfd2cc6e96)
 
 ## Soldering
